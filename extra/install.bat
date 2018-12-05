@@ -1,0 +1,1 @@
+Munin-Node-VB.exe -install
